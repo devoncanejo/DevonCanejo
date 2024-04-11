@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devon! <br/><a href="https://github.com/devoncanejo">IT Support</a>, <a href="https://www.linkedin.com/in/devonpharrison/">Microsoft Administrator</a>
+<h1>Hi, I'm Devon! <br/><a href="https://github.com/devoncanejo">IT Support</a>, <a href="https://www.linkedin.com/in/devonpharrison/"> Microsoft Administrator</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
